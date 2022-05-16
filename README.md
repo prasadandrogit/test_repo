@@ -9,7 +9,7 @@ Language: Kotlin\
 Minimum SDK: 22
 
 # Project Structure
-app\
+app
 - MainActivity for loading cat related facts
 - ViewModel with function to fetch remote results data from Repository(remote and db)
 - ViewImpl class maintains the view releated logics
